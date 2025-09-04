@@ -1,0 +1,22 @@
+project_id = "rkbmnersobxehuerkfxw"
+
+[functions.fetch-holc-data]
+verify_jwt = false
+
+[functions.fetch-mortgage-data]
+verify_jwt = false
+
+[functions.fetch-demographic-data]
+verify_jwt = false
+
+[functions.fetch-eviction-data]
+verify_jwt = false
+
+[functions.fetch-environmental-data]
+verify_jwt = false
+
+[functions.get-mapbox-token]
+verify_jwt = false
+
+[functions.redlining-chat]
+verify_jwt = false
