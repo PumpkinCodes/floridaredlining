@@ -88,7 +88,7 @@ export default function Home() {
         <div className="relative container mx-auto px-4 py-24 lg:py-32">
           <div className="max-w-4xl mx-auto text-center text-white">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
-              Redlining: Then vs Now
+              Redlining: Then vs. Now
             </h1>
             <p className="text-xl lg:text-2xl mb-4 text-white/90">
               Explore the history of redlining in America
